@@ -12,3 +12,6 @@
 
 ## DELETE delete comic by id | http://localhost:3000/api/komiks/1
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f3a0abe-ce1c-45dc-852e-ea042da37162" />
+
+## Check database SELECT * FROM public.komik in pgAdmin 4
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c467ea28-0521-4eee-8fee-eac74dbbda94" />
